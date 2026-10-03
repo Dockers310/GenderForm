@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" factoryName="Application" folderName="Fabric" name="Data Generation (:fabric:26.2)" type="Application">
+    <option name="MAIN_CLASS_NAME" value="net.fabricmc.devlaunchinjector.Main"/>
+    <module name="GenderForm-Fabric-26.2.fabric.26.2.runData"/>
+    <option name="PROGRAM_PARAMETERS" value=""/>
+    <option name="VM_PARAMETERS" value="-Ddevauth.enabled=false -Dfabric.dli.config=C:\Users\KavaD\Downloads\GenderForm-1.0.0-fixed-v2\.gradle\loom-cache\projects\fabric\26.2\launch.cfg -Dfabric.dli.env=client -Dfabric.dli.main=net.fabricmc.loader.impl.launch.knot.KnotClient -XX:StackShadowPages=32 --sun-misc-unsafe-memory-access=allow --enable-native-access=ALL-UNNAMED -Dfabric-api.datagen -Dfabric-api.datagen.output-dir=C:\Users\KavaD\Downloads\GenderForm-1.0.0-fixed-v2\fabric\versions\26.2\src\main\generated"/>
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fabric\versions\26.2\run\datagen/"/>
+    <method v="2">
+      <option enabled="true" name="Make"/>
+    </method>
+    <envs>
+
+    </envs>
+    <shortenClasspath name="ARGS_FILE"/>
+  <classpathModifications/></configuration>
+</component>

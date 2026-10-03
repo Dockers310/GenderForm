@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/versions/26.2/GenderForm-Fabric-26.2.common.26.2.datagen.iml" filepath="$PROJECT_DIR$/.idea/modules/common/versions/26.2/GenderForm-Fabric-26.2.common.26.2.datagen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/versions/26.2/GenderForm-Fabric-26.2.common.26.2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common/versions/26.2/GenderForm-Fabric-26.2.common.26.2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/versions/26.2/GenderForm-Fabric-26.2.common.26.2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common/versions/26.2/GenderForm-Fabric-26.2.common.26.2.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/versions/26.2/GenderForm-Fabric-26.2.fabric.26.2.datagen.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/versions/26.2/GenderForm-Fabric-26.2.fabric.26.2.datagen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/versions/26.2/GenderForm-Fabric-26.2.fabric.26.2.main.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/versions/26.2/GenderForm-Fabric-26.2.fabric.26.2.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/versions/26.2/GenderForm-Fabric-26.2.fabric.26.2.runData.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/versions/26.2/GenderForm-Fabric-26.2.fabric.26.2.runData.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/versions/26.2/GenderForm-Fabric-26.2.fabric.26.2.runMain.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/versions/26.2/GenderForm-Fabric-26.2.fabric.26.2.runMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fabric/versions/26.2/GenderForm-Fabric-26.2.fabric.26.2.test.iml" filepath="$PROJECT_DIR$/.idea/modules/fabric/versions/26.2/GenderForm-Fabric-26.2.fabric.26.2.test.iml" />
+    </modules>
+  </component>
+</project>
